@@ -1,0 +1,26 @@
+_repo: The-Automobile-Storage-Battery--Its-Care-And-Repair_29718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Witte, Otto A.
+    gutenberg_agent_id: '34104'
+    url: http://www.gutenberg.org/2009/agents/34104
+description: ''
+gutenberg_issued: '2009-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29718'
+  lccn: '23000150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Storage batteries'
+- !lcsh 'Automobiles -- Electric equipment'
+title: 'The Automobile Storage Battery: Its Care And Repair'
+url: http://www.gutenberg.org/ebooks/29718
